@@ -1,0 +1,21 @@
+{
+    "name": "juan-morales/pretty-print",
+    "description": "Sample composer package that allows to have an enhanced version of \"echo\"",
+    "type": "library",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "Juan Carlos Morales",
+            "email": "jcmargentina@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload" : {
+        "files" :[
+            "src/pp.php"
+        ]
+    }
+}
