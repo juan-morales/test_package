@@ -1,10 +1,12 @@
-#PrettyPrint function
-#`pp()`
-##Composer package usd to test package creation
+# PrettyPrint function
+
+### `pp()`
+
+## Composer package used to test package creation
 
 This package has a function called `pp()` that basically adds a date-time prefix to the string that we want to print.
 
-##Function declaration
+## Function declaration
 
 `function pp(string $msg, bool $return = false)`
 
