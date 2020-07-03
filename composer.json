@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "autoload" : {
-        "files" :[
+        "files" : [
             "src/pp.php"
         ]
     }
