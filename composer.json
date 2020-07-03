@@ -2,7 +2,7 @@
     "name": "juan-morales/pretty-print",
     "description": "Sample composer package that allows to have an enhanced version of \"echo\"",
     "type": "library",
-    "license": "GNU",
+    "license": "GPL-1.0-or-later",
     "authors": [
         {
             "name": "Juan Carlos Morales",
